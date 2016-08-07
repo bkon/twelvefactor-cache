@@ -9,7 +9,7 @@ require "twelvefactor/environment/cache/file"
 require "twelvefactor/environment/cache/null"
 
 class Twelvefactor::Environment::Cache
-  VERSION = "1.0.0".freeze
+  VERSION = "1.0.1".freeze
 
   HANDLERS = {
     "dalli" => Dalli,
