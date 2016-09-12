@@ -51,6 +51,11 @@ null
 null://localhost
 ```
 
+redis
+```
+redis://localhost:6379/1/cache
+```
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install
